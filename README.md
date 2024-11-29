@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TAHSEEN-FATHIMA
-- I’m interested in AI PROJECTS
-- I’m currently doing engineering
-- 📫 To contact: fathimatahseen8@gmail.com
-- Pronouns: She/Her
+- Ticket booking system which collects user info as admin then books ticket atlast shows the booked ticket 
 
 
 <!---
